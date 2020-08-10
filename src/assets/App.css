@@ -1,0 +1,12 @@
+body {
+  background-color: #eee;
+}
+
+button {
+  cursor: pointer !important;
+  transition: background-color 0.3s;
+}
+
+button:focus {
+  outline: none;
+}
