@@ -5,9 +5,8 @@
 
 ## Using the project
 - clone repository
-- install dependencies
+- install dependencies(npm install)
 - run npm start
-lwind CSS (using cdn no purged)
 
 ## Live Demo:
 ### https://challenge-mc-1.vercel.app
